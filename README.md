@@ -1,6 +1,6 @@
-# 🌸 FnP Analytics — Advanced Excel Dashboard for Ferns and Petals
+# FnP Analytics — Advanced Excel Dashboard for Ferns and Petals
 
-This project presents a comprehensive Excel-based analytics solution using Ferns and Petals data. The interactive dashboards explore sales, customer behavior, product performance, orders, and delivery insights with advanced KPIs, visualizations, and business intelligence techniques — all implemented in Microsoft Excel.
+This project presents a comprehensive Excel-based analytics solution using Ferns and Petals data. The interactive dashboards explore sales, customer behaviour, product performance, orders, and delivery insights with advanced KPIs, visualisations, and business intelligence techniques; all implemented in Microsoft Excel.
 
 ---
 
@@ -29,7 +29,7 @@ This project presents a comprehensive Excel-based analytics solution using Ferns
 - **Pivot Tables**
 - **Slicers & Timelines**
 - **Power Query** (ETL & data cleaning)
-- **Power Pivot** (data modeling with relationships)
+- **Power Pivot** (data modelling with relationships)
 - **VBA & Macros** (automation and interactivity)
 
 ---
